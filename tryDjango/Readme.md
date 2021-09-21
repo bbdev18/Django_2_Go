@@ -1,0 +1,1 @@
+New setup for Django
